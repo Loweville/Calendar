@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--appointments will be stored here-->
+<Appointments>
+  <Appointment id="0">
+    <Description>rtjknLKNq-gnop</Description>
+    <Date>17/04/2014 09:00:00</Date>
+    <Length>30</Length>
+    <Occurances>1</Occurances>
+  </Appointment>
+  <Appointment id="1">
+    <Description>dlknrghqpkng-kng</Description>
+    <Date>17/04/2014 12:30:00</Date>
+    <Length>30</Length>
+    <Occurances>1</Occurances>
+  </Appointment>
+  <Appointment id="2">
+    <Description>rh-erg</Description>
+    <Date>06/05/2014 09:00:00</Date>
+    <Length>30</Length>
+    <Occurances>1</Occurances>
+  </Appointment>
+  <Appointment id="3">
+    <Description>erg-erg</Description>
+    <Date>04/05/2014 09:00:00</Date>
+    <Length>30</Length>
+    <Occurances>1</Occurances>
+  </Appointment>
+  <Appointment id="4">
+    <Description>this sina-asca</Description>
+    <Date>22/09/2015 10:00:00</Date>
+    <Length>30</Length>
+    <Occurances>1</Occurances>
+  </Appointment>
+</Appointments>

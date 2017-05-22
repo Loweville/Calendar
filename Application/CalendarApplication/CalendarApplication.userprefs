@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Appointments.cs">
+    <Files>
+      <File FileName="AppointmentForm.cs" Line="64" Column="27" />
+      <File FileName="MainForm.cs" Line="291" Column="59" />
+      <File FileName="Appointments.cs" Line="85" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="CalendarApplication" expanded="True" selected="True">
+            <Node name="AppointmentForm.cs" expanded="True" />
+            <Node name="MainForm.cs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
