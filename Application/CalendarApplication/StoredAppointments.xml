@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--appointments will be stored here-->
+<Appointment>
+  <Subject>Advisor Meeting</Subject>
+  <Date>06/04/2014 9:00:00 AM</Date>
+  <Length>60</Length>
+</Appointment>
